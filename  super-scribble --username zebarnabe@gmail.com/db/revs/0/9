@@ -1,0 +1,52 @@
+id: 1-8.0-9.r9/0
+type: file
+pred: 1-8.0.r8/7738
+count: 1
+text: 8 0 7725 10171 d34212d9e15220f9e8d9dadafd239973 708f4fa93066fadd1abf8833bb527dff00075a8f 7-7/_3
+cpath: /media/icon.svg
+copyfrom: 8 /media/out.svg
+
+PLAIN
+K 8
+icon.svg
+V 17
+file 1-8.0-9.r9/0
+END
+ENDREP
+id: 0-7.0.r9/263
+type: dir
+pred: 0-7.0.r8/7968
+count: 2
+text: 9 210 40 40 1e30ac16c108fdcbb55cf9859bb88e7d
+cpath: /media
+copyroot: 0 /
+
+PLAIN
+K 3
+bin
+V 18
+dir 0-3.0.r6/21644
+K 5
+media
+V 16
+dir 0-7.0.r9/263
+K 3
+src
+V 16
+dir 0-4.0.r5/280
+END
+ENDREP
+id: 0.0.r9/510
+type: dir
+pred: 0.0.r8/8215
+count: 9
+text: 9 399 98 98 e8ff2f28c5e16a1e9c939971b4836d0f
+cpath: /
+copyroot: 0 /
+
+1-8.0.r8/7738 delete-file false false /media/out.svg
+
+1-8._0.t8-8 add-file false false /media/icon.svg
+8 /media/out.svg
+
+510 637
